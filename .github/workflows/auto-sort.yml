@@ -1,0 +1,40 @@
+name: Auto Sort DSA Problems
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  sort-problems:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run problem sorter
+        run: python scripts/sort_problems.py
+
+      - name: Commit sorted problems
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add -A
+
+          if git diff --cached --quiet; then
+            echo "No sorting changes found."
+          else
+            git commit -m "Auto-sort DSA problems"
+            git push
+          fi
