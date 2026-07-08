@@ -4,7 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0031-next-permutation](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0031-next-permutation/) | Medium |
+| [0031-next-permutation](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Unknown/0031-next-permutation/) | Medium |
 | [0051-n-queens](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Hard/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0053-maximum-subarray/) | Medium |
 | [0283-move-zeroes](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/0283-move-zeroes/) | Easy |
@@ -14,7 +14,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0031-next-permutation](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0031-next-permutation/) | Medium |
+| [0031-next-permutation](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Unknown/0031-next-permutation/) | Medium |
 | [0283-move-zeroes](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/0283-move-zeroes/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Divide and Conquer
