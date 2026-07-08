@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0051-n-queens](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0053-maximum-subarray/) | Medium |
 | [0283-move-zeroes](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -32,4 +33,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
