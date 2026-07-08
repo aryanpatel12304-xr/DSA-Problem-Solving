@@ -8,13 +8,24 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: auto-sort-dsa
+  cancel-in-progress: true
+
 jobs:
   sort-problems:
+    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Wait for LeetHub commits
+        run: sleep 30
+
+      - name: Checkout latest repository
         uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -36,5 +47,5 @@ jobs:
             echo "No sorting changes found."
           else
             git commit -m "Auto-sort DSA problems"
-            git push
+            git push origin main
           fi
