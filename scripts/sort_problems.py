@@ -1,13 +1,13 @@
 import os
 import re
 import shutil
+from urllib.parse import quote
 
 # Repository ka main/root folder
 ROOT = os.path.dirname(
     os.path.dirname(os.path.abspath(__file__))
 )
 
-# Main README.md ka path
 MAIN_README = os.path.join(ROOT, "README.md")
 
 
@@ -79,6 +79,19 @@ def read_main_readme():
         return file.read()
 
 
+def write_main_readme(content):
+    """
+    Updated README.md ko save karta hai.
+    """
+
+    with open(
+        MAIN_README,
+        "w",
+        encoding="utf-8"
+    ) as file:
+        file.write(content)
+
+
 def build_problem_topic_map(readme_content):
     """
     Main README se:
@@ -91,16 +104,10 @@ def build_problem_topic_map(readme_content):
 
     for line in readme_content.splitlines():
 
-        # Topic heading detect karo
-        # Example:
-        # ## Array
         if line.startswith("## "):
             current_topic = line[3:].strip()
             continue
 
-        # Problem detect karo
-        # Example:
-        # [0283-move-zeroes]
         match = re.search(
             r"\[([0-9]{4}-[a-z0-9-]+)\]",
             line,
@@ -176,18 +183,6 @@ def get_difficulty(problem_folder_path):
 def is_problem_folder(folder_name):
     """
     Sirf actual LeetCode problem folders detect karega.
-
-    Valid:
-    0053-maximum-subarray
-    0283-move-zeroes
-    1752-check-if-array-is-sorted-and-rotated
-
-    Invalid:
-    01-Arrays
-    02-Strings
-    99-Other
-    scripts
-    incoming
     """
 
     return bool(
@@ -197,6 +192,128 @@ def is_problem_folder(folder_name):
             re.IGNORECASE
         )
     )
+
+
+def find_all_problem_locations():
+    """
+    Repo ke andar recursively saare actual
+    problem folders find karta hai.
+
+    Return:
+    problem_name -> relative path
+    """
+
+    problem_locations = {}
+
+    for current_root, dirs, files in os.walk(ROOT):
+
+        # Git internals scan mat karo
+        dirs[:] = [
+            directory
+            for directory in dirs
+            if directory != ".git"
+        ]
+
+        current_folder_name = os.path.basename(
+            current_root
+        )
+
+        if not is_problem_folder(current_folder_name):
+            continue
+
+        relative_path = os.path.relpath(
+            current_root,
+            ROOT
+        )
+
+        # Windows backslash ko GitHub slash me badlo
+        relative_path = relative_path.replace(
+            os.sep,
+            "/"
+        )
+
+        problem_locations[
+            current_folder_name
+        ] = relative_path
+
+        # Problem folder ke andar aur scan ki zarurat nahi
+        dirs[:] = []
+
+    return problem_locations
+
+
+def update_readme_links(
+    readme_content,
+    problem_locations
+):
+    """
+    README ke problem links ko actual
+    current folder path ke according repair karta hai.
+    """
+
+    updated_count = 0
+
+    pattern = re.compile(
+        r"(\[([0-9]{4}-[a-z0-9-]+)\]\()"
+        r"(https://github\.com/[^)\s]+)"
+        r"(\))",
+        re.IGNORECASE
+    )
+
+    def replace_link(match):
+        nonlocal updated_count
+
+        prefix = match.group(1)
+        problem_name = match.group(2)
+        old_url = match.group(3)
+        suffix = match.group(4)
+
+        actual_path = problem_locations.get(
+            problem_name
+        )
+
+        if not actual_path:
+            return match.group(0)
+
+        # Existing URL se repo base nikalo
+        base_match = re.match(
+            r"(https://github\.com/[^/]+/[^/]+)"
+            r"/tree/[^/]+/",
+            old_url,
+            re.IGNORECASE
+        )
+
+        if not base_match:
+            return match.group(0)
+
+        repo_base = base_match.group(1)
+
+        # Path safely encode karo
+        encoded_path = quote(
+            actual_path,
+            safe="/-._~"
+        )
+
+        new_url = (
+            f"{repo_base}/tree/main/"
+            f"{encoded_path}/"
+        )
+
+        if new_url != old_url:
+            updated_count += 1
+
+        return (
+            f"{prefix}"
+            f"{new_url}"
+            f"{suffix}"
+        )
+
+    updated_content = pattern.sub(
+        replace_link,
+        readme_content
+    )
+
+    return updated_content, updated_count
 
 
 def main():
@@ -212,7 +329,7 @@ def main():
 
     moved_count = 0
 
-    # Root folder ke items check karo
+    # Root-level naye LeetHub problem folders sort karo
     for folder_name in os.listdir(ROOT):
 
         old_path = os.path.join(
@@ -220,33 +337,26 @@ def main():
             folder_name
         )
 
-        # File hai to ignore
         if not os.path.isdir(old_path):
             continue
 
-        # Actual problem folder nahi hai to ignore
         if not is_problem_folder(folder_name):
             continue
 
-        # Problem ke topics nikalo
         topics = problem_topic_map.get(
             folder_name,
             []
         )
 
-        # Main topic choose karo
         main_topic = choose_main_topic(topics)
 
-        # Difficulty nikalo
         difficulty = get_difficulty(old_path)
 
-        # Topic folder choose karo
         topic_folder = TOPIC_FOLDER_NAMES.get(
             main_topic,
             "99-Other"
         )
 
-        # Final destination
         new_path = os.path.join(
             ROOT,
             topic_folder,
@@ -254,14 +364,11 @@ def main():
             folder_name
         )
 
-        # Destination parent folders banao
         os.makedirs(
             os.path.dirname(new_path),
             exist_ok=True
         )
 
-        # Agar already destination me hai
-        # to overwrite mat karo
         if os.path.exists(new_path):
 
             print(
@@ -271,7 +378,6 @@ def main():
 
             continue
 
-        # Problem folder move karo
         shutil.move(
             old_path,
             new_path
@@ -284,9 +390,30 @@ def main():
 
         moved_count += 1
 
+    # Move ke baad actual locations dobara find karo
+    problem_locations = find_all_problem_locations()
+
+    # Existing + new broken README links repair karo
+    latest_readme_content = read_main_readme()
+
+    updated_readme, updated_link_count = (
+        update_readme_links(
+            latest_readme_content,
+            problem_locations
+        )
+    )
+
+    if updated_readme != latest_readme_content:
+        write_main_readme(updated_readme)
+
     print(
         f"\nSorting complete! "
         f"Moved {moved_count} problem(s)."
+    )
+
+    print(
+        f"README links updated: "
+        f"{updated_link_count}"
     )
 
 
