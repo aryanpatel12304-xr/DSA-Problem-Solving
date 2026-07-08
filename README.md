@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0053-maximum-subarray/) | Medium |
 | [0283-move-zeroes](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0283-move-zeroes/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
