@@ -11,6 +11,7 @@
 | [0485-max-consecutive-ones](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/0485-max-consecutive-ones/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0128-longest-consecutive-sequence/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,4 +46,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
