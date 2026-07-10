@@ -12,7 +12,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Unknown/0128-longest-consecutive-sequence/) | Medium |
-| [0073-set-matrix-zeroes](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0073-set-matrix-zeroes/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,7 +51,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Unknown/0128-longest-consecutive-sequence/) | Medium |
-| [0073-set-matrix-zeroes](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0073-set-matrix-zeroes/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,5 +59,5 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0073-set-matrix-zeroes](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0073-set-matrix-zeroes/) | Medium |
 <!---LeetCode Topics End-->
