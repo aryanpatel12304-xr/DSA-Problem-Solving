@@ -18,7 +18,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/0119-pascals-triangle-ii/) | Easy |
 | [0118-pascals-triangle](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/0118-pascals-triangle/) | Easy |
-| [0169-majority-element](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0169-majority-element/) | Easy |
+| [0169-majority-element](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/0169-majority-element/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,7 +29,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0053-maximum-subarray/) | Medium |
-| [0169-majority-element](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0169-majority-element/) | Easy |
+| [0169-majority-element](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/0169-majority-element/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,7 +63,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Unknown/0128-longest-consecutive-sequence/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0560-subarray-sum-equals-k/) | Medium |
-| [0169-majority-element](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0169-majority-element/) | Easy |
+| [0169-majority-element](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/0169-majority-element/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,9 +85,9 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0169-majority-element](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0169-majority-element/) | Easy |
+| [0169-majority-element](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/0169-majority-element/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0169-majority-element](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0169-majority-element/) | Easy |
+| [0169-majority-element](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
