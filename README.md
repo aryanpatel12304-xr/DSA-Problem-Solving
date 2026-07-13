@@ -19,6 +19,7 @@
 | [0119-pascals-triangle-ii](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/0119-pascals-triangle-ii/) | Easy |
 | [0118-pascals-triangle](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/0118-pascals-triangle/) | Easy |
 | [0169-majority-element](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0229-majority-element-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +65,7 @@
 | [0073-set-matrix-zeroes](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0169-majority-element](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0229-majority-element-ii/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,8 +88,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0229-majority-element-ii/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0229-majority-element-ii/) | Medium |
 <!---LeetCode Topics End-->
