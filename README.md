@@ -20,7 +20,7 @@
 | [0118-pascals-triangle](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/0118-pascals-triangle/) | Easy |
 | [0169-majority-element](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0229-majority-element-ii/) | Medium |
-| [0704-binary-search](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0704-binary-search/) | Easy |
+| [0704-binary-search](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/0704-binary-search/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,5 +98,5 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0704-binary-search](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0704-binary-search/) | Easy |
+| [0704-binary-search](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
