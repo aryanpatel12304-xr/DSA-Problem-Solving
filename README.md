@@ -27,7 +27,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0056-merge-intervals](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/0088-merge-sorted-array/) | Easy |
-| [0238-product-of-array-except-self](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0238-product-of-array-except-self/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,7 +96,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0560-subarray-sum-equals-k/) | Medium |
-| [0238-product-of-array-except-self](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0238-product-of-array-except-self/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
