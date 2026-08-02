@@ -29,7 +29,7 @@
 | [0088-merge-sorted-array](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/0088-merge-sorted-array/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0238-product-of-array-except-self/) | Medium |
 | [1929-concatenation-of-array](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/1929-concatenation-of-array/) | Easy |
-| [0162-find-peak-element](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0162-find-peak-element/) | Medium |
+| [0162-find-peak-element](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0162-find-peak-element/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,5 +120,5 @@
 | ------- | ------- |
 | [0704-binary-search](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/0704-binary-search/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
-| [0162-find-peak-element](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0162-find-peak-element/) | Medium |
+| [0162-find-peak-element](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0162-find-peak-element/) | Medium |
 <!---LeetCode Topics End-->
