@@ -34,7 +34,7 @@
 | [0035-search-insert-position](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Unknown/0035-search-insert-position/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Unknown/0153-find-minimum-in-rotated-sorted-array/) | Medium |
-| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,7 +86,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0169-majority-element](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Unknown/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0229-majority-element-ii/) | Medium |
-| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,5 +134,5 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 <!---LeetCode Topics End-->
