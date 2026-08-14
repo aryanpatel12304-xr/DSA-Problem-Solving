@@ -37,6 +37,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0875-koko-eating-bananas/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,6 +136,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Unknown/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0875-koko-eating-bananas/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
