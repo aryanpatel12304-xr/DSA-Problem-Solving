@@ -38,7 +38,7 @@
 | [0875-koko-eating-bananas](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0875-koko-eating-bananas/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Unknown/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
-| [0001-two-sum](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0001-two-sum/) | Easy |
+| [0001-two-sum](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/0001-two-sum/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,7 +91,7 @@
 | [0169-majority-element](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0229-majority-element-ii/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
-| [0001-two-sum](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0001-two-sum/) | Easy |
+| [0001-two-sum](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/0001-two-sum/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
