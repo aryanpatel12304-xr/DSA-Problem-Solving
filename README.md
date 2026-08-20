@@ -39,7 +39,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Unknown/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [0001-two-sum](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/0001-two-sum/) | Easy |
-| [1011-capacity-to-ship-packages-within-d-days](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Unknown/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,7 +140,7 @@
 | [0875-koko-eating-bananas](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0875-koko-eating-bananas/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Unknown/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
-| [1011-capacity-to-ship-packages-within-d-days](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Unknown/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
