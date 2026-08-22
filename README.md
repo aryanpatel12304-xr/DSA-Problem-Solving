@@ -111,8 +111,8 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0189-rotate-array/) | Medium |
-| [2520-count-the-digits-that-divide-a-number](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/17-Math/Easy/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/13-Dynamic-Programming/Easy/0509-fibonacci-number/) | Easy |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/17-Math/Easy/2520-count-the-digits-that-divide-a-number/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,6 +146,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Unknown/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Unknown/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [0278-first-bad-version](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0278-first-bad-version/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,4 +159,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/13-Dynamic-Programming/Easy/0509-fibonacci-number/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
