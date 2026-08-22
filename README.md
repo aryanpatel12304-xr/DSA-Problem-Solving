@@ -146,7 +146,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Unknown/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Unknown/1011-capacity-to-ship-packages-within-d-days/) | Medium |
-| [0278-first-bad-version](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0278-first-bad-version/) | Easy |
+| [0278-first-bad-version](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/04-Binary-Search/Easy/0278-first-bad-version/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,5 +162,5 @@
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0278-first-bad-version](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0278-first-bad-version/) | Easy |
+| [0278-first-bad-version](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/04-Binary-Search/Easy/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
