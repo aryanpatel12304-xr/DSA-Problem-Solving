@@ -52,6 +52,7 @@
 | [0027-remove-element](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0189-rotate-array/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0151-reverse-words-in-a-string/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,6 +168,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/1021-remove-outermost-parentheses/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0151-reverse-words-in-a-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
