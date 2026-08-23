@@ -163,4 +163,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/04-Binary-Search/Easy/0278-first-bad-version/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
