@@ -172,7 +172,7 @@
 | [0014-longest-common-prefix](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/0014-longest-common-prefix/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/1903-largest-odd-number-in-string/) | Easy |
-| [0796-rotate-string](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0796-rotate-string/) | Easy |
+| [0796-rotate-string](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -193,5 +193,5 @@
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0796-rotate-string](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0796-rotate-string/) | Easy |
+| [0796-rotate-string](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
