@@ -98,7 +98,7 @@
 | [0229-majority-element-ii](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0229-majority-element-ii/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [0001-two-sum](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/0001-two-sum/) | Easy |
-| [0242-valid-anagram](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0242-valid-anagram/) | Easy |
+| [0242-valid-anagram](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/0242-valid-anagram/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,7 +131,7 @@
 | [0018-4sum](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0018-4sum/) | Medium |
 | [0056-merge-intervals](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/0088-merge-sorted-array/) | Easy |
-| [0242-valid-anagram](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0242-valid-anagram/) | Easy |
+| [0242-valid-anagram](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/0242-valid-anagram/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,7 +175,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/1903-largest-odd-number-in-string/) | Easy |
 | [0796-rotate-string](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/0796-rotate-string/) | Easy |
-| [0242-valid-anagram](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0242-valid-anagram/) | Easy |
+| [0242-valid-anagram](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/0242-valid-anagram/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
