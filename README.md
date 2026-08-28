@@ -40,6 +40,7 @@
 | [0001-two-sum](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/0001-two-sum/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Unknown/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [0189-rotate-array](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0189-rotate-array/) | Medium |
+| [0014-longest-common-prefix](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0014-longest-common-prefix/) | Easy |
 | [0053-maximum-subarray](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0053-maximum-subarray/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -168,9 +169,10 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [1021-remove-outermost-parentheses](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/1903-largest-odd-number-in-string/) | Easy |
+| [0014-longest-common-prefix](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0014-longest-common-prefix/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -183,4 +185,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/1903-largest-odd-number-in-string/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
