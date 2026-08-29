@@ -176,17 +176,17 @@
 | [1903-largest-odd-number-in-string](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/1903-largest-odd-number-in-string/) | Easy |
 | [0796-rotate-string](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/0796-rotate-string/) | Easy |
 | [0242-valid-anagram](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/0242-valid-anagram/) | Easy |
-| [0020-valid-parentheses](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0020-valid-parentheses/) | Easy |
+| [0020-valid-parentheses](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/0020-valid-parentheses/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0020-valid-parentheses](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0020-valid-parentheses/) | Easy |
+| [0020-valid-parentheses](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/0020-valid-parentheses/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0020-valid-parentheses](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0020-valid-parentheses/) | Easy |
+| [0020-valid-parentheses](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/0020-valid-parentheses/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
