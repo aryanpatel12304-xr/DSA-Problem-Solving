@@ -43,7 +43,7 @@
 | [0014-longest-common-prefix](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/0014-longest-common-prefix/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0053-maximum-subarray](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0053-maximum-subarray/) | Medium |
-| [0209-minimum-size-subarray-sum](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0209-minimum-size-subarray-sum/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,7 +125,7 @@
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0238-product-of-array-except-self/) | Medium |
-| [0209-minimum-size-subarray-sum](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0209-minimum-size-subarray-sum/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,12 +156,12 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Unknown/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [0278-first-bad-version](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/04-Binary-Search/Easy/0278-first-bad-version/) | Easy |
-| [0209-minimum-size-subarray-sum](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0209-minimum-size-subarray-sum/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
-| [0209-minimum-size-subarray-sum](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0209-minimum-size-subarray-sum/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
