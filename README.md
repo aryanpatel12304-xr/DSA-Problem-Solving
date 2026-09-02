@@ -44,8 +44,9 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0055-jump-game](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0055-jump-game/) | Medium |
-| [0053-maximum-subarray](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0053-maximum-subarray/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/3875-construct-uniform-parity-array-i/) | Easy |
+| [0053-maximum-subarray](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0053-maximum-subarray/) | Medium |
+| [0198-house-robber](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0198-house-robber/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +72,7 @@
 | [0055-jump-game](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0055-jump-game/) | Medium |
 | [0509-fibonacci-number](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/13-Dynamic-Programming/Easy/0509-fibonacci-number/) | Easy |
 | [0053-maximum-subarray](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0053-maximum-subarray/) | Medium |
+| [0198-house-robber](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0198-house-robber/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,10 +122,10 @@
 | [0048-rotate-image](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0189-rotate-array/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/1903-largest-odd-number-in-string/) | Easy |
 | [0509-fibonacci-number](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/13-Dynamic-Programming/Easy/0509-fibonacci-number/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/17-Math/Easy/2520-count-the-digits-that-divide-a-number/) | Easy |
-| [3875-construct-uniform-parity-array-i](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
