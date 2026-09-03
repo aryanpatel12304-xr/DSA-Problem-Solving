@@ -70,9 +70,9 @@
 | [0119-pascals-triangle-ii](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/0119-pascals-triangle-ii/) | Easy |
 | [0118-pascals-triangle](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/0118-pascals-triangle/) | Easy |
 | [0055-jump-game](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0055-jump-game/) | Medium |
-| [0509-fibonacci-number](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/13-Dynamic-Programming/Easy/0509-fibonacci-number/) | Easy |
 | [0053-maximum-subarray](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0053-maximum-subarray/) | Medium |
 | [0198-house-robber](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0198-house-robber/) | Medium |
+| [0509-fibonacci-number](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/13-Dynamic-Programming/Easy/0509-fibonacci-number/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
