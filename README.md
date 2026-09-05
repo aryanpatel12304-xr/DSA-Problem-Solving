@@ -199,7 +199,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [0013-roman-to-integer](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/0013-roman-to-integer/) | Easy |
-| [0008-string-to-integer-atoi](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0008-string-to-integer-atoi](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Medium/0008-string-to-integer-atoi/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
