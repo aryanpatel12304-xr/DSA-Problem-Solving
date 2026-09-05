@@ -109,6 +109,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [0001-two-sum](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/0001-two-sum/) | Easy |
 | [0242-valid-anagram](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/0242-valid-anagram/) | Easy |
+| [0013-roman-to-integer](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0013-roman-to-integer/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,6 +129,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/1903-largest-odd-number-in-string/) | Easy |
 | [0509-fibonacci-number](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/13-Dynamic-Programming/Easy/0509-fibonacci-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0013-roman-to-integer/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/17-Math/Easy/2520-count-the-digits-that-divide-a-number/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -196,6 +198,7 @@
 | [0020-valid-parentheses](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/0020-valid-parentheses/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [0013-roman-to-integer](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0013-roman-to-integer/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
