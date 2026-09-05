@@ -48,7 +48,7 @@
 | [0198-house-robber](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0198-house-robber/) | Medium |
 | [0053-maximum-subarray](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0053-maximum-subarray/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/3903-smallest-stable-index-i/) | Easy |
-| [3904-smallest-stable-index-ii](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3904-smallest-stable-index-ii](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/3904-smallest-stable-index-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,7 +135,7 @@
 | [0238-product-of-array-except-self](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0238-product-of-array-except-self/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/3903-smallest-stable-index-i/) | Easy |
-| [3904-smallest-stable-index-ii](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3904-smallest-stable-index-ii](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/3904-smallest-stable-index-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
