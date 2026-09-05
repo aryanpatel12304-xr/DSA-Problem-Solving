@@ -49,6 +49,7 @@
 | [0053-maximum-subarray](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0053-maximum-subarray/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/3904-smallest-stable-index-ii/) | Medium |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
