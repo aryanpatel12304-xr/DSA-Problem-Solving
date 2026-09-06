@@ -50,6 +50,7 @@
 | [3903-smallest-stable-index-i](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/3904-smallest-stable-index-ii/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [2187-minimum-time-to-complete-trips](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -170,6 +171,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0278-first-bad-version](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/04-Binary-Search/Easy/0278-first-bad-version/) | Easy |
+| [2187-minimum-time-to-complete-trips](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
