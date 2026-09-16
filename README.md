@@ -158,8 +158,8 @@
 | [0056-merge-intervals](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/0088-merge-sorted-array/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
-| [0242-valid-anagram](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/0242-valid-anagram/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0215-kth-largest-element-in-an-array/) | Medium |
+| [0242-valid-anagram](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/0242-valid-anagram/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
