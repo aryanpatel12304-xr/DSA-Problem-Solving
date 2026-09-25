@@ -188,8 +188,8 @@
 | [2187-minimum-time-to-complete-trips](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/2187-minimum-time-to-complete-trips/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/1539-kth-missing-positive-number/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Hard/0410-split-array-largest-sum/) | Hard |
-| [0278-first-bad-version](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/04-Binary-Search/Easy/0278-first-bad-version/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Hard/0004-median-of-two-sorted-arrays/) | Hard |
+| [0278-first-bad-version](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/04-Binary-Search/Easy/0278-first-bad-version/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
