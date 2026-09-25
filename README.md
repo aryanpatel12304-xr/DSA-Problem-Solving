@@ -57,6 +57,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Hard/0410-split-array-largest-sum/) | Hard |
 | [0004-median-of-two-sorted-arrays](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Hard/0004-median-of-two-sorted-arrays/) | Hard |
+| [1920-build-array-from-permutation](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/1920-build-array-from-permutation/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,6 +111,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [0054-spiral-matrix](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0054-spiral-matrix/) | Medium |
 | [1929-concatenation-of-array](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/1929-concatenation-of-array/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/1920-build-array-from-permutation/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
