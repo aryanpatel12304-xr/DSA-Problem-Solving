@@ -58,6 +58,7 @@
 | [0410-split-array-largest-sum](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Hard/0410-split-array-largest-sum/) | Hard |
 | [0004-median-of-two-sorted-arrays](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [1920-build-array-from-permutation](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/1920-build-array-from-permutation/) | Easy |
+| [0414-third-maximum-number](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0414-third-maximum-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,6 +168,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/0242-valid-anagram/) | Easy |
+| [0414-third-maximum-number](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0414-third-maximum-number/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
