@@ -59,6 +59,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [1920-build-array-from-permutation](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/1920-build-array-from-permutation/) | Easy |
 | [0414-third-maximum-number](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/0414-third-maximum-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +73,7 @@
 | [0189-rotate-array](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0189-rotate-array/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0392-is-subsequence](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/0392-is-subsequence/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,8 +169,8 @@
 | [0088-merge-sorted-array](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/0088-merge-sorted-array/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0215-kth-largest-element-in-an-array/) | Medium |
-| [0242-valid-anagram](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/0242-valid-anagram/) | Easy |
 | [0414-third-maximum-number](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/0414-third-maximum-number/) | Easy |
+| [0242-valid-anagram](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/0242-valid-anagram/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,6 +196,7 @@
 | [0410-split-array-largest-sum](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Hard/0410-split-array-largest-sum/) | Hard |
 | [0004-median-of-two-sorted-arrays](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0278-first-bad-version](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/04-Binary-Search/Easy/0278-first-bad-version/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -265,4 +268,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0215-kth-largest-element-in-an-array/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
