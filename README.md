@@ -71,9 +71,9 @@
 | [0027-remove-element](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Unknown/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0189-rotate-array/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0392-is-subsequence](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/0392-is-subsequence/) | Easy |
-| [0287-find-the-duplicate-number](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0287-find-the-duplicate-number/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +149,7 @@
 | [0013-roman-to-integer](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/0013-roman-to-integer/) | Easy |
 | [0509-fibonacci-number](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/13-Dynamic-Programming/Unknown/0509-fibonacci-number/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/17-Math/Easy/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [0069-sqrtx](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0069-sqrtx/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -195,8 +196,9 @@
 | [1539-kth-missing-positive-number](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/1539-kth-missing-positive-number/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Hard/0410-split-array-largest-sum/) | Hard |
 | [0004-median-of-two-sorted-arrays](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Hard/0004-median-of-two-sorted-arrays/) | Hard |
-| [0278-first-bad-version](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/04-Binary-Search/Easy/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0287-find-the-duplicate-number/) | Medium |
+| [0278-first-bad-version](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/04-Binary-Search/Easy/0278-first-bad-version/) | Easy |
+| [0069-sqrtx](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0069-sqrtx/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -280,4 +282,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0287-find-the-duplicate-number/) | Medium |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
