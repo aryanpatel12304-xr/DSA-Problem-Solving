@@ -61,7 +61,7 @@
 | [0414-third-maximum-number](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/0414-third-maximum-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0287-find-the-duplicate-number/) | Medium |
 | [2733-neither-minimum-nor-maximum](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/2733-neither-minimum-nor-maximum/) | Easy |
-| [0977-squares-of-a-sorted-array](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/0977-squares-of-a-sorted-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,7 +76,7 @@
 | [0287-find-the-duplicate-number](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0392-is-subsequence](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/0392-is-subsequence/) | Easy |
-| [0977-squares-of-a-sorted-array](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/0977-squares-of-a-sorted-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,7 +176,7 @@
 | [0414-third-maximum-number](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/0414-third-maximum-number/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/2733-neither-minimum-nor-maximum/) | Easy |
 | [0242-valid-anagram](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/0242-valid-anagram/) | Easy |
-| [0977-squares-of-a-sorted-array](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/0977-squares-of-a-sorted-array/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
