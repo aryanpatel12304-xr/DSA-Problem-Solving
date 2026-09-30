@@ -60,6 +60,7 @@
 | [1920-build-array-from-permutation](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/1920-build-array-from-permutation/) | Easy |
 | [0414-third-maximum-number](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/0414-third-maximum-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0287-find-the-duplicate-number/) | Medium |
+| [2733-neither-minimum-nor-maximum](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,9 +148,9 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/1903-largest-odd-number-in-string/) | Easy |
 | [0013-roman-to-integer](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/0013-roman-to-integer/) | Easy |
+| [0069-sqrtx](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/04-Binary-Search/Easy/0069-sqrtx/) | Easy |
 | [0509-fibonacci-number](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/13-Dynamic-Programming/Unknown/0509-fibonacci-number/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/17-Math/Easy/2520-count-the-digits-that-divide-a-number/) | Easy |
-| [0069-sqrtx](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/04-Binary-Search/Easy/0069-sqrtx/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,6 +173,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0414-third-maximum-number](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/0414-third-maximum-number/) | Easy |
 | [0242-valid-anagram](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/0242-valid-anagram/) | Easy |
+| [2733-neither-minimum-nor-maximum](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
