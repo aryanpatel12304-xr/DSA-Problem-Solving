@@ -59,9 +59,9 @@
 | [0287-find-the-duplicate-number](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0287-find-the-duplicate-number/) | Medium |
 | [2733-neither-minimum-nor-maximum](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/2733-neither-minimum-nor-maximum/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Easy/0977-squares-of-a-sorted-array/) | Easy |
-| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Unknown/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Unknown/0053-maximum-subarray/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,8 +93,8 @@
 | [0055-jump-game](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0055-jump-game/) | Medium |
 | [0198-house-robber](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0198-house-robber/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Hard/0410-split-array-largest-sum/) | Hard |
-| [0392-is-subsequence](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/0392-is-subsequence/) | Easy |
 | [0053-maximum-subarray](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Unknown/0053-maximum-subarray/) | Medium |
+| [0392-is-subsequence](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/13-Dynamic-Programming/Unknown/0509-fibonacci-number/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -152,8 +152,9 @@
 | [1903-largest-odd-number-in-string](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/1903-largest-odd-number-in-string/) | Easy |
 | [0013-roman-to-integer](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/0013-roman-to-integer/) | Easy |
 | [0069-sqrtx](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/04-Binary-Search/Easy/0069-sqrtx/) | Easy |
-| [2520-count-the-digits-that-divide-a-number](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/17-Math/Easy/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/13-Dynamic-Programming/Unknown/0509-fibonacci-number/) | Easy |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/17-Math/Easy/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [0050-powx-n](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0050-powx-n/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,10 +202,10 @@
 | [0410-split-array-largest-sum](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Hard/0410-split-array-largest-sum/) | Hard |
 | [0004-median-of-two-sorted-arrays](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0287-find-the-duplicate-number/) | Medium |
+| [0035-search-insert-position](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Unknown/0035-search-insert-position/) | Easy |
 | [0278-first-bad-version](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/04-Binary-Search/Easy/0278-first-bad-version/) | Easy |
 | [0069-sqrtx](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/04-Binary-Search/Easy/0069-sqrtx/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
-| [0035-search-insert-position](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Unknown/0035-search-insert-position/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -214,6 +215,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/13-Dynamic-Programming/Unknown/0509-fibonacci-number/) | Easy |
+| [0050-powx-n](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0050-powx-n/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
