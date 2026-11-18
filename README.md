@@ -152,9 +152,9 @@
 | [1903-largest-odd-number-in-string](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/1903-largest-odd-number-in-string/) | Easy |
 | [0013-roman-to-integer](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/0013-roman-to-integer/) | Easy |
 | [0069-sqrtx](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/04-Binary-Search/Easy/0069-sqrtx/) | Easy |
-| [0509-fibonacci-number](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0509-fibonacci-number/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/17-Math/Easy/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [0050-powx-n](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/17-Math/Medium/0050-powx-n/) | Medium |
+| [0509-fibonacci-number](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0509-fibonacci-number/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -203,9 +203,9 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0035-search-insert-position](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Unknown/0035-search-insert-position/) | Easy |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0278-first-bad-version](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/04-Binary-Search/Easy/0278-first-bad-version/) | Easy |
 | [0069-sqrtx](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/04-Binary-Search/Easy/0069-sqrtx/) | Easy |
-| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -214,8 +214,8 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0509-fibonacci-number](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0509-fibonacci-number/) | Easy |
 | [0050-powx-n](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/17-Math/Medium/0050-powx-n/) | Medium |
+| [0509-fibonacci-number](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -233,25 +233,25 @@
 | [0796-rotate-string](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Unknown/0796-rotate-string/) | Easy |
 | [0242-valid-anagram](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/0242-valid-anagram/) | Easy |
 | [0020-valid-parentheses](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/0020-valid-parentheses/) | Easy |
-| [1021-remove-outermost-parentheses](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Unknown/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [0013-roman-to-integer](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/0013-roman-to-integer/) | Easy |
 | [0008-string-to-integer-atoi](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Medium/0008-string-to-integer-atoi/) | Medium |
 | [0392-is-subsequence](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/0392-is-subsequence/) | Easy |
 | [0344-reverse-string](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/0344-reverse-string/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/01-Arrays/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0020-valid-parentheses](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/0020-valid-parentheses/) | Easy |
-| [1021-remove-outermost-parentheses](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Unknown/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Easy/0020-valid-parentheses/) | Easy |
-| [1021-remove-outermost-parentheses](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/02-Strings/Unknown/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/aryanpatel12304-xr/DSA-Problem-Solving/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
